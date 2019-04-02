@@ -35,7 +35,7 @@ const (
 	INDEX       = "around"
 	TYPE        = "post"
 	DISTANCE    = "200km"
-	ES_URL      = "http://34.73.75.149:9200"
+	ES_URL      = "http://35.231.171.203:9200/"
 	BUCKET_NAME = "post-images-36023"
 	BT_INSTANCE = "around-post"
 	PROJECT_ID  = "around-236023"
